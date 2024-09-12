@@ -34,7 +34,7 @@ This project focuses on analyzing customer data for TellCo, a mobile service pro
 1. Clone the repository.
 2. Install dependencies using `pip install -r requirements.txt`.
 3. Run the notebooks for data analysis.
-4. To launch the Streamlit dashboard, run `streamlit run src/dashboard.py`.
+4. To launch the Streamlit dashboard, run `streamlit run scripts/dashboard.py`.
 
 ## Future Work
 - Add more advanced user satisfaction analysis.
