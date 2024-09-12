@@ -61,4 +61,5 @@ This project focuses on analyzing customer data for TellCo, a mobile service pro
 └── scripts/                  # Scripts for data loading and preprocessing
     ├── load_data.py
     ├── utils.py
+    ├── dashboard.py
     └── __init__.py
